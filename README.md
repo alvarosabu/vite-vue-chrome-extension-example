@@ -2,7 +2,7 @@
 
 # Vite + Vue Chrome Extension Example
 
-> Repo for the video Title[Insertvideourlhere]
+> Repo for the video [Create a Chrome Extension with Vite + Vue](https://youtu.be/E_189013gCM)
 
 ## Build Setup
 
